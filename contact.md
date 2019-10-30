@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /contact/
 ---
     Please send an email to highmarktutor@gmail.com in order to book an appointment.
     
