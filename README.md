@@ -1,6 +1,7 @@
-[Services](https://github.com/github-testsite-19/testSite2/settings)
-[Credentials](https://github.com/github-testsite-19/testSite2/edit/master/README.md)
-[About the new SAT](https://guides.github.com/features/mastering-markdown/)
+[About](https://github-testsite-19.github.io/testSite2/) |
+[Services](https://github.com/github-testsite-19/testSite2/settings) |
+[Credentials](https://github.com/github-testsite-19/testSite2/edit/master/README.md) |
+[About the new SAT](https://guides.github.com/features/mastering-markdown/) |
 [Contact](/contact/)
 
 # About High Mark Tutoring
