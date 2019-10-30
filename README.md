@@ -2,7 +2,7 @@
 [Services](https://github-testsite-19.github.io/testSite2/services/) |
 [Credentials](https://github-testsite-19.github.io/testSite2/credentials/) |
 [About the new SAT](https://github-testsite-19.github.io/testSite2/sat/) |
-[Contact](https://github-testsite-19.github.io/testSite2/contact/)
+[Contact](/testSite2/contact/)
 
 # About High Mark Tutoring
 
