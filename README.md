@@ -1,7 +1,7 @@
-[About](https://github-testsite-19.github.io/testSite2/) |
-[Services](https://github-testsite-19.github.io/testSite2/services/) |
-[Credentials](https://github-testsite-19.github.io/testSite2/credentials/) |
-[About the new SAT](https://github-testsite-19.github.io/testSite2/sat/) |
+[About](/testSite2/) |
+[Services](/testSite2/services/) |
+[Credentials](/testSite2/credentials/) |
+[About the new SAT](/testSite2/sat/) |
 [Contact](/testSite2/contact/)
 
 # About High Mark Tutoring
