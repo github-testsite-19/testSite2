@@ -1,8 +1,8 @@
-[About](/testSite2/) |
-[Services](/testSite2/services/) |
-[Credentials](/testSite2/credentials/) |
-[About the new SAT](/testSite2/sat/) |
-[Contact](/testSite2/contact/)
+[About](https://github-testsite-19.github.io/testSite2/) |
+[Services](https://github-testsite-19.github.io/testSite2/services/) |
+[Credentials](https://github-testsite-19.github.io/testSite2/credentials/) |
+[About the new SAT](https://github-testsite-19.github.io/testSite2/sat/) |
+[Contact](https://github-testsite-19.github.io/testSite2/contact/)
 
 # About High Mark Tutoring
 
@@ -15,25 +15,6 @@ I treat the SAT differently than the regular classes. I am a firm believer that 
 I graduated from MIT with a Bachelor’s and Master's degree in electrical engineering.
 
 Lastly, I am a firm believer of quality over quantity. My hope is that for the SAT prepping, the student will not need my help for more than a few sessions. The sooner the student no longer needs me, the better. Do not pay me if the student is not satisfied with my first lesson. I want to spread good study habits and help those who want to be helped - I am not looking for many students, I just want to make a big impact on whom I do help. 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
