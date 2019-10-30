@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /testSite2/contact/
+permalink: /contact/
 ---
 # Contact
 
