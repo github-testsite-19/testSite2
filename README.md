@@ -1,9 +1,9 @@
-[documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)
-[editor on GitHub](https://github.com/github-testsite-19/testSite2/edit/master/README.md)
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-[repository settings](https://github.com/github-testsite-19/testSite2/settings)
+[Services](https://github.com/github-testsite-19/testSite2/settings)
+[Credentials](https://github.com/github-testsite-19/testSite2/edit/master/README.md)
+[About the new SAT](https://guides.github.com/features/mastering-markdown/)
+[Contact](https://help.github.com/categories/github-pages-basics/)
 
-About High Mark Tutoring
+# About High Mark Tutoring
 
 You can use the  to maintain and preview the content for your website in Markdown files.
 
