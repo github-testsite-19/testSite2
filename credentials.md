@@ -2,7 +2,7 @@
 layout: default
 permalink: /credentials/
 ---
-[About](/home/) |
+[About](/ ) |
 [Services](/services/) |
 [Credentials](/credentials/) |
 [About the new SAT](/sat/) |
