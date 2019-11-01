@@ -1,7 +1,5 @@
----
-permalink: /home/
----
-[About](/home/) |
+
+[About](/index.html/) |
 [Services](/services/) |
 [Credentials](/credentials/) |
 [About the new SAT](/sat/) |
