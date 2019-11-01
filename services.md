@@ -2,7 +2,7 @@
 layout: default
 permalink: /services/
 ---
-[About](/highmarktutoring.com) |
+[About](/home/) |
 [Services](/services/) |
 [Credentials](/credentials/) |
 [About the new SAT](/sat/) |
